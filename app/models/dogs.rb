@@ -23,6 +23,7 @@ end
   def get_age
     "this dog is #{@age}"
   end 
+end 
   
 #   def dog_info
 #     "this dog's name is #{@name} and he is a #{@breed} who is #{@age} years old"
