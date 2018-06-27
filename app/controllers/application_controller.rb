@@ -16,6 +16,7 @@ class ApplicationController < Sinatra::Base
    @the_user=params[:user]
    return erb :result
  end 
+ end 
 
  
  
